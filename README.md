@@ -17,6 +17,10 @@
 * conda create -n my_python python==3.7.7
 * conda activate my_python
 * conda install spyder
-* conda install numpy=1.18.1 pandas=1.0.3
-* conda install fiona=1.8.13.post1
+* conda install numpy==1.18.1 pandas==1.0.3
+* conda install fiona==1.8.13.post1
 * conda install geopandas==0.8.1
+
+Dacon 시각화의 경우 아래 패키지를 추가설치해야 합니다.
+* conda install descartes== 1.1.0
+* conda install plotly==4.14.1
